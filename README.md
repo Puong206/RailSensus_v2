@@ -1,4 +1,4 @@
-# 🚂 RailSensus — Platform Crowdsourcing Sensus Kereta Api
+# RailSensus — Platform Crowdsourcing Sensus Kereta Api
 
 <p align="center">
   <img src="frontend/assets/images/RailSensus_Logo.png" alt="RailSensus Logo" width="200"/>
@@ -12,9 +12,8 @@
 
 Komunitas pecinta kereta api (Railfans) di Indonesia memiliki antusiasme yang sangat tinggi dalam memantau dan mencatat pergerakan sarana lokomotif dan kereta api (*train spotting* atau *dinasan harian*). Namun, aktivitas pendataan yang dilakukan oleh komunitas saat ini masih menghadapi kendala utama:
 
-1. **Data Sporadis & Tidak Terstruktur** — Informasi mengenai lokomotif apa yang menarik rangkaian kereta tertentu saat ini hanya dibagikan secara manual melalui grup obrolan (WhatsApp/Telegram) atau media sosial. Laporan ini dengan cepat tenggelam oleh tumpukan pesan lain dan sangat sulit untuk diarsip atau dicari kembali.
+1. **Data & Tidak Terstruktur** — Informasi mengenai lokomotif apa yang menarik rangkaian kereta tertentu saat ini hanya dibagikan secara manual melalui grup obrolan (WhatsApp/Telegram) atau media sosial. Laporan ini dengan cepat tenggelam oleh tumpukan pesan lain dan sangat sulit untuk diarsip atau dicari kembali.
 2. **Rawan Misinformasi (Tidak Ada Validasi)** — Laporan pandangan mata yang beredar seringkali tidak disertai bukti, sehingga rawan terjadi misinformasi, salah identifikasi nomor sarana, atau bahkan laporan fiktif (hoaks) tanpa ada cara untuk memverifikasinya.
-3. **Pencatatan Geografis yang Manual** — Saat melaporkan pergerakan kereta, railfans harus mengetik lokasi stasiun secara manual yang rentan terhadap typo, tidak presisi, dan tidak standar.
 
 **RailSensus** hadir sebagai solusi inovatif untuk mendigitalisasi hobi *train spotting* ini ke dalam sebuah platform terstruktur. Menggunakan pendekatan **crowdsourcing**, RailSensus memusatkan pelaporan dinasan kereta secara real-time dengan dukungan penarikan lokasi otomatis terintegrasi, menyehatkan ekosistem informasi komunitas dengan sistem **Trust Score** (voting validitas), serta membersihkan data usang secara otomatis setelah 12 jam untuk memastikan informasi yang disajikan selalu *fresh* dan akurat.
 
